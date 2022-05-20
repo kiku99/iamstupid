@@ -5,6 +5,9 @@
 - file system은 파일을 관리할 정보가 필요하다
 - directory : 파일을 편하게 관리하기 위한 도구
 - directory entry : directory를 표현하는 자료구조
+
+![image](https://user-images.githubusercontent.com/66311161/169558332-1d1f41bc-1023-467d-a450-4857a5f165ae.png)
+
 inode number(32bit) directory length(16bit) name length(8bit) file type(8bit) file name(80) 으로 구성(linux ext3 file system)
 
 ## I-node
@@ -87,6 +90,50 @@ Block 들을 옮기고 지우는 방식은 copy & paste를 하게 되는데,
 그러면 필연적으로 disk access 횟수가 늘어나게 되므로 매우 느림
 
 ![image](https://user-images.githubusercontent.com/66311161/169557871-2502beea-d382-4cd8-a746-b321c5bf7590.png)
+
+### Linked Allocation
+
+Contiguous Allocation의 단점을 보완
+
+Data block이 디스크 상에서 흩어져 있지만 link를 통해 연결
+
+마지막 블록의 link에는 끝임을 표시하는 nil(-1)이 저장
+
+Linked list의 단점인 sequential access 존재
+
+![image](https://user-images.githubusercontent.com/66311161/169558489-50e24760-29f0-4ead-a945-e58e8153bee8.png)
+
+### FAT
+
+특정 파일의 link정보를 저장
+
+Link 정보를 따로 저장하므로, disk의 추가 용량이 필요 없음
+
+시작 block주소만 알고 있다면 FAT를 탐색하여 이후 block의 주소를 알 수 있다
+
+하지만 table을 위한 공간이 따로 필요한데, 이를 해결하기 위해 main memory의 cache에 해당 table을 저장
+
+![image](https://user-images.githubusercontent.com/66311161/169559463-48187182-11cc-4eab-a47c-48a0ba1f594d.png)
+
+### Indexed Allocation
+
+
+하나의 block이 table역할을 함
+
+ file date block이 한 두개 정도인 경우라도 무조건 index block을 할당해야 하므로, 공간 낭비 발생
+
+큰 용량의 file을 저장하기 힘들다는 단점 존재
+
+![image](https://user-images.githubusercontent.com/66311161/169559586-07afda8f-5d21-45a3-90fc-59d29d99a244.png)
+
+### Multilevel Index
+
+12개의 direct block과 하나의 single, double, triple indirect block을 가지는 방식
+
+![image](https://user-images.githubusercontent.com/66311161/169559667-fc61a867-e1a3-4c67-9e5d-1b0dcbf0e255.png)
+
+
+
 
 
 
