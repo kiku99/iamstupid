@@ -38,6 +38,6 @@
 
 # API vs Library vs Framework
 
-- Library와 API의 차이점은 구현 로직의 유무이다
+-Library와 API의 차이점은 구현 로직의 유무이다
 
-- Library와 Framework의 차이점은 응용 프로그램의 흐름 주도권을 누가 가지고 있느냐 이다
+-Library와 Framework의 차이점은 응용 프로그램의 흐름 주도권을 누가 가지고 있느냐 이다
