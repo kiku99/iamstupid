@@ -4,4 +4,4 @@
 
 ## 개발
 
-- https://github.com/kiku99/iamstupid/blob/main/%5B%EA%B0%9C%EB%B0%9C%5D%20API%20vs%20Library%20vs%20Framework.md
+- [API vs Library](https://github.com/kiku99/iamstupid/blob/main/%5B%EA%B0%9C%EB%B0%9C%5D%20API%20vs%20Library%20vs%20Framework.md)
