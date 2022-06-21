@@ -19,27 +19,27 @@ git-flow 전략은 주기적으로 배포를 해야하는 프로젝트에는 적
 
 ![image](https://user-images.githubusercontent.com/66311161/174708250-c37c7ce3-702c-4155-9df5-240d8aa602d6.png)
 
-### Main branch
+## Main branch
 
 master 브랜치와 develop 브랜치를 보통 메인 브랜치로 사용하며, 두 브랜치는 병행으로 유지한다.
 
 ![image](https://user-images.githubusercontent.com/66311161/174708411-e376c304-b166-45a6-a075-bd3c61eed88b.png)
 
-master
+### master
 - 배포 가능한 상태만을 관리하는 브랜치
 
-develop
+### develop
 - 다음에 배포할 것을 개발하는 브랜치
 - develop 브랜치는 통합 브랜치의 역할을 하며, 평소에는 이 브랜치를 기반으로 개발을 진행
 
 
-### Surporting branch
+## Surporting branch
 
 feature 브랜치, release 브랜치, hotfix 브랜치를 보조 브랜치로 사용
 
 
 
-feature 브랜치
+### feature 브랜치
 
 ![image](https://user-images.githubusercontent.com/66311161/174708988-15ce2474-3804-4de7-b0a9-bc2d8ab86d8b.png)
 
