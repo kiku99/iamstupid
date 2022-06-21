@@ -32,6 +32,7 @@ develop
 - 다음에 배포할 것을 개발하는 브랜치
 - develop 브랜치는 통합 브랜치의 역할을 하며, 평소에는 이 브랜치를 기반으로 개발을 진행
 
+
 ### Surporting branch
 
 feature 브랜치, release 브랜치, hotfix 브랜치를 보조 브랜치로 사용
