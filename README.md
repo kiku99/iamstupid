@@ -13,7 +13,7 @@
 
 ## AWS
 
--[AWS VPC구축 이론 및 VPC중심 네트워크 구성](https://github.com/kiku99/iamstupid/blob/main/%5BAWS%5D%20VPC%20%EA%B5%AC%EC%B6%95%20%EC%9D%B4%EB%A1%A0%20%EB%B0%8F%20VPC%20%EC%A4%91%EC%8B%AC%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B5%AC%EC%84%B1.md)
+- [AWS VPC구축 이론 및 VPC중심 네트워크 구성](https://github.com/kiku99/iamstupid/blob/main/%5BAWS%5D%20VPC%20%EA%B5%AC%EC%B6%95%20%EC%9D%B4%EB%A1%A0%20%EB%B0%8F%20VPC%20%EC%A4%91%EC%8B%AC%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B5%AC%EC%84%B1.md)
 
 
 ## MSA
