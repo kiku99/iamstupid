@@ -17,8 +17,8 @@
 ## MSA
 
 - [01.biz민첩성과 아키텍처 요건](https://github.com/kiku99/iamstupid/blob/main/%5BMSA%5D%2001.biz%EB%AF%BC%EC%B2%A9%EC%84%B1%EA%B3%BC%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%20%EC%9A%94%EA%B1%B4.pdf)
-- [02.마이크로서비스vs모노리스]
-- [03.MSA특징-1](https://github.com/kiku99/iamstupid/blob/main/%5BMSA%5D%2002.%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4_vs_%EB%AA%A8%EB%85%B8%EB%A6%AC%EC%8A%A4.pdf)
+- [02.마이크로서비스vs모노리스](https://github.com/kiku99/iamstupid/blob/main/%5BMSA%5D%2002.%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4_vs_%EB%AA%A8%EB%85%B8%EB%A6%AC%EC%8A%A4.pdf)
+- [03.MSA특징-1](https://github.com/kiku99/iamstupid/blob/main/%5BMSA%5D%2003.MSA%ED%8A%B9%EC%A7%95-1.pdf)
 - [04.MSA특징-2]
 
 
