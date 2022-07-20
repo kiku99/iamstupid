@@ -11,9 +11,16 @@
 - [TCP와 UDP](https://github.com/kiku99/iamstupid/blob/main/%5BCS%5D%20TCP%EC%99%80%20UDP.md)
 - [Linux File System](https://github.com/kiku99/iamstupid/blob/main/%5BCS%5D%20Linux%20File%20System.md)
 
+## AWS
+
+
+## MSA
+
+
+
 ## 책
 
 - [객체지향의 사실과 오해](https://github.com/kiku99/iamstupid/blob/main/%5B%EC%B1%85%5D%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%20%EC%82%AC%EC%8B%A4%EA%B3%BC%20%EC%98%A4%ED%95%B4.md)
 - [홀로서기 심리학](https://github.com/kiku99/iamstupid/blob/main/%5B%EC%B1%85%5D%20%ED%99%80%EB%A1%9C%EC%84%9C%EA%B8%B0%20%EC%8B%AC%EB%A6%AC%ED%95%99.md)
 
-## AWS
+
