@@ -29,6 +29,9 @@
 
 - [05.소프트웨어 아키텍처 및 마이크로서비스 내 외부 아키텍처](https://github.com/kiku99/iamstupid/blob/main/MSA/%5BMSA%5D%2005.%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4_%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98_%EB%B0%8F_%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4_%EB%82%B4_%EC%99%B8%EB%B6%80_%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98.pdf)
 
+- [06.인프라, 플랫폼 DevOps환경](https://github.com/kiku99/iamstupid/blob/main/MSA/%5BMSA%5D%2006.%EC%9D%B8%ED%94%84%EB%9D%BC__%ED%94%8C%EB%9E%AB%ED%8F%BC__%EB%8D%B0%EB%B8%8C%EC%98%B5%EC%8A%A4_%ED%99%98%EA%B2%BD.pdf)
+
+
 ## 책
 
 - [객체지향의 사실과 오해](https://github.com/kiku99/iamstupid/blob/main/%EC%B1%85/%5B%EC%B1%85%5D%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%20%EC%82%AC%EC%8B%A4%EA%B3%BC%20%EC%98%A4%ED%95%B4.md)
