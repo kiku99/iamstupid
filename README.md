@@ -31,6 +31,9 @@
 
 - [06.인프라, 플랫폼 DevOps환경](https://github.com/kiku99/iamstupid/blob/main/MSA/%5BMSA%5D%2006.%EC%9D%B8%ED%94%84%EB%9D%BC__%ED%94%8C%EB%9E%AB%ED%8F%BC__%EB%8D%B0%EB%B8%8C%EC%98%B5%EC%8A%A4_%ED%99%98%EA%B2%BD.pdf)
 
+-[07.마이크로서비스 플랫폼 기반 서비스-1](https://github.com/kiku99/iamstupid/blob/main/MSA/%5BMSA%5D%2007.%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4_%ED%94%8C%EB%9E%AB%ED%8F%BC_%EA%B8%B0%EB%B0%98_%EC%84%9C%EB%B9%84%EC%8A%A4-1_.pdf)
+
+-[08.마이크로서비스 플랫폼 기반 서비스-2]()
 
 ## 책
 
