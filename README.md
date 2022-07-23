@@ -35,6 +35,8 @@
 
 - [08.마이크로서비스 플랫폼 기반 서비스-2](https://github.com/kiku99/iamstupid/blob/main/MSA/%5BMSA%5D%2008.%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4_%ED%94%8C%EB%9E%AB%ED%8F%BC_%EA%B8%B0%EB%B0%98_%EC%84%9C%EB%B9%84%EC%8A%A4-2_.pdf)
 
+- [09.Application Architecture와 JAVA 엔터프라이즈 발전흐름](https://github.com/kiku99/iamstupid/blob/main/MSA/%5BMSA%5D%2009.Application%20Architecture%EC%99%80%20JAVA%20%EC%97%94%ED%84%B0%ED%94%84%EB%9D%BC%EC%9D%B4%EC%A6%88%20%EB%B0%9C%EC%A0%84%ED%9D%90%EB%A6%84.pdf)
+
 ## 책
 
 - [객체지향의 사실과 오해](https://github.com/kiku99/iamstupid/blob/main/%EC%B1%85/%5B%EC%B1%85%5D%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%20%EC%82%AC%EC%8B%A4%EA%B3%BC%20%EC%98%A4%ED%95%B4.md)
