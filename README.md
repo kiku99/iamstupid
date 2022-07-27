@@ -44,6 +44,12 @@
 
 - [09.Application Architecture와 JAVA 엔터프라이즈 발전흐름](https://github.com/kiku99/iamstupid/blob/main/MSA/%5BMSA%5D%2009.Application%20Architecture%EC%99%80%20JAVA%20%EC%97%94%ED%84%B0%ED%94%84%EB%9D%BC%EC%9D%B4%EC%A6%88%20%EB%B0%9C%EC%A0%84%ED%9D%90%EB%A6%84.pdf)
 
+- [10.Application Architecture-Layered Architecture](https://github.com/kiku99/iamstupid/blob/main/MSA/%5BMSA%5D%2010.Application%20Architecture-Layered%20Architecture.pdf)
+
+- [11.Application Architecture-Hexagonal Architecture]()
+
+- [12.Layer구조 설계(Architecture 고려사항)]()
+
 ## 책
 
 - [객체지향의 사실과 오해](https://github.com/kiku99/iamstupid/blob/main/%EC%B1%85/%5B%EC%B1%85%5D%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%20%EC%82%AC%EC%8B%A4%EA%B3%BC%20%EC%98%A4%ED%95%B4.md)
