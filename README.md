@@ -46,7 +46,7 @@
 
 - [10.Application Architecture-Layered Architecture](https://github.com/kiku99/iamstupid/blob/main/MSA/%5BMSA%5D%2010.Application%20Architecture-Layered%20Architecture.pdf)
 
-- [11.Application Architecture-Hexagonal Architecture]()
+- [11.Application Architecture-Hexagonal Architecture](https://github.com/kiku99/iamstupid/blob/main/MSA/%5BMSA%5D%2011.Application%20Architecture-Hexagonal%20Architecture.pdf)
 
 - [12.Layer구조 설계(Architecture 고려사항)]()
 
