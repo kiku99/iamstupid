@@ -48,7 +48,7 @@
 
 - [11.Application Architecture-Hexagonal Architecture](https://github.com/kiku99/iamstupid/blob/main/MSA/%5BMSA%5D%2011.Application%20Architecture-Hexagonal%20Architecture.pdf)
 
-- [12.Layer구조 설계(Architecture 고려사항)]()
+- [12.Layer구조 설계(Architecture 고려사항)](https://github.com/kiku99/iamstupid/blob/main/MSA/%5BMSA%5D%2012.Layer%EA%B5%AC%EC%A1%B0%20%EC%84%A4%EA%B3%84(Architecture%20%EA%B3%A0%EB%A0%A4%EC%82%AC%ED%95%AD).pdf)
 
 ## 책
 
