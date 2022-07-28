@@ -12,6 +12,8 @@
 
 - [12 Factors App](https://github.com/kiku99/iamstupid/blob/main/%EA%B0%9C%EB%B0%9C/%5B%EA%B0%9C%EB%B0%9C%5D%2012%20Factors%20app.md)
 
+- [REST](https://github.com/kiku99/iamstupid/blob/main/%EA%B0%9C%EB%B0%9C/%5B%EA%B0%9C%EB%B0%9C%5D%20REST.md)
+
 ## CS
 
 - [Linux File System](https://github.com/kiku99/iamstupid/blob/main/CS/%5BCS%5D%20Linux%20File%20System.md)
