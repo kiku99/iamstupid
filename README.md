@@ -54,6 +54,8 @@
 
 - [12.Layer구조 설계(Architecture 고려사항)](https://github.com/kiku99/iamstupid/blob/main/MSA/%5BMSA%5D%2012.Layer%EA%B5%AC%EC%A1%B0%20%EC%84%A4%EA%B3%84(Architecture%20%EA%B3%A0%EB%A0%A4%EC%82%AC%ED%95%AD).pdf)
 
+- [13.Event driven Architecture](https://github.com/kiku99/iamstupid/blob/main/MSA/%5BMSA%5D%2013.Event%20driven%20Architecture.pdf)
+
 ## 책
 
 - [객체지향의 사실과 오해](https://github.com/kiku99/iamstupid/blob/main/%EC%B1%85/%5B%EC%B1%85%5D%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%20%EC%82%AC%EC%8B%A4%EA%B3%BC%20%EC%98%A4%ED%95%B4.md)
