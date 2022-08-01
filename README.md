@@ -60,7 +60,7 @@
 
 - [15.명령과 조회의 역할 분리-CQRS 패턴](https://github.com/kiku99/iamstupid/blob/main/MSA/%5BMSA%5D%2015.%EB%AA%85%EB%A0%B9%EA%B3%BC%20%EC%A1%B0%ED%9A%8C%EC%9D%98%20%EC%97%AD%ED%95%A0%20%EB%B6%84%EB%A6%AC-CQRS%20%ED%8C%A8%ED%84%B4.pdf)
 
-- [16.MSA와 도메인 주도 설계]()
+- [16.MSA와 도메인 주도 설계](https://github.com/kiku99/iamstupid/blob/main/MSA/%5BMSA%5D%2016.MSA%EC%99%80%20%EB%8F%84%EB%A9%94%EC%9D%B8%20%EC%A3%BC%EB%8F%84%20%EC%84%A4%EA%B3%84.pdf)
 
 ## 책
 
