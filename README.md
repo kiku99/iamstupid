@@ -56,6 +56,12 @@
 
 - [13.Event driven Architecture](https://github.com/kiku99/iamstupid/blob/main/MSA/%5BMSA%5D%2013.Event%20driven%20Architecture.pdf)
 
+- [14.Microservice 트랜잭션 처리-SAGA 패턴](https://github.com/kiku99/iamstupid/blob/main/MSA/%5BMSA%5D%2014.Microservice%20%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%20%EC%B2%98%EB%A6%AC-SAGA%20%ED%8C%A8%ED%84%B4.pdf)
+
+- [15.명령과 조회의 역할 분리-CQRS 패턴]()
+
+- [16.MSA와 도메인 주도 설계]()
+
 ## 책
 
 - [객체지향의 사실과 오해](https://github.com/kiku99/iamstupid/blob/main/%EC%B1%85/%5B%EC%B1%85%5D%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%20%EC%82%AC%EC%8B%A4%EA%B3%BC%20%EC%98%A4%ED%95%B4.md)
