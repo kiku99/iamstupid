@@ -58,7 +58,7 @@
 
 - [14.Microservice 트랜잭션 처리-SAGA 패턴](https://github.com/kiku99/iamstupid/blob/main/MSA/%5BMSA%5D%2014.Microservice%20%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%20%EC%B2%98%EB%A6%AC-SAGA%20%ED%8C%A8%ED%84%B4.pdf)
 
-- [15.명령과 조회의 역할 분리-CQRS 패턴]()
+- [15.명령과 조회의 역할 분리-CQRS 패턴](https://github.com/kiku99/iamstupid/blob/main/MSA/%5BMSA%5D%2015.%EB%AA%85%EB%A0%B9%EA%B3%BC%20%EC%A1%B0%ED%9A%8C%EC%9D%98%20%EC%97%AD%ED%95%A0%20%EB%B6%84%EB%A6%AC-CQRS%20%ED%8C%A8%ED%84%B4.pdf)
 
 - [16.MSA와 도메인 주도 설계]()
 
