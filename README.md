@@ -62,7 +62,7 @@
 
 - [16.MSA와 도메인 주도 설계](https://github.com/kiku99/iamstupid/blob/main/MSA/%5BMSA%5D%2016.MSA%EC%99%80%20%EB%8F%84%EB%A9%94%EC%9D%B8%20%EC%A3%BC%EB%8F%84%20%EC%84%A4%EA%B3%84.pdf)
 
-- [17.도메인주도설계란 무엇인가]()
+- [17.도메인주도설계란 무엇인가](https://github.com/kiku99/iamstupid/blob/main/MSA/%5BMSA%5D%2017.%EB%8F%84%EB%A9%94%EC%9D%B8%EC%A3%BC%EB%8F%84%EC%84%A4%EA%B3%84%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80.pdf)
 
 - [18.전략적 설계(바운디드컨텍스트와 유비쿼터스 언어)]()
 
