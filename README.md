@@ -64,7 +64,7 @@
 
 - [17.도메인주도설계란 무엇인가](https://github.com/kiku99/iamstupid/blob/main/MSA/%5BMSA%5D%2017.%EB%8F%84%EB%A9%94%EC%9D%B8%EC%A3%BC%EB%8F%84%EC%84%A4%EA%B3%84%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80.pdf)
 
-- [18.전략적 설계(바운디드컨텍스트와 유비쿼터스 언어)]()
+- [18.전략적 설계(바운디드컨텍스트와 유비쿼터스 언어)](https://github.com/kiku99/iamstupid/blob/main/MSA/%5BMSA%5D%2018.%EC%A0%84%EB%9E%B5%EC%A0%81%20%EC%84%A4%EA%B3%84(%EB%B0%94%EC%9A%B4%EB%94%94%EB%93%9C%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%99%80%20%EC%9C%A0%EB%B9%84%EC%BF%BC%ED%84%B0%EC%8A%A4%20%EC%96%B8%EC%96%B4).pdf)
 
 - [19.전략적 설계(컨텍스트 매핑)]()
 
