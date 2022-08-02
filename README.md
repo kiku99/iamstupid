@@ -62,6 +62,14 @@
 
 - [16.MSA와 도메인 주도 설계](https://github.com/kiku99/iamstupid/blob/main/MSA/%5BMSA%5D%2016.MSA%EC%99%80%20%EB%8F%84%EB%A9%94%EC%9D%B8%20%EC%A3%BC%EB%8F%84%20%EC%84%A4%EA%B3%84.pdf)
 
+- [17.도메인주도설계란 무엇인가]()
+
+- [18.전략적 설계(바운디드컨텍스트와 유비쿼터스 언어)]()
+
+- [19.전략적 설계(컨텍스트 매핑)]()
+
+- [20.전술적 설계]()
+
 ## 책
 
 - [객체지향의 사실과 오해](https://github.com/kiku99/iamstupid/blob/main/%EC%B1%85/%5B%EC%B1%85%5D%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%20%EC%82%AC%EC%8B%A4%EA%B3%BC%20%EC%98%A4%ED%95%B4.md)
