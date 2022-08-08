@@ -86,4 +86,6 @@
 
 - [홀로서기 심리학](https://github.com/kiku99/iamstupid/blob/main/%EC%B1%85/%5B%EC%B1%85%5D%20%ED%99%80%EB%A1%9C%EC%84%9C%EA%B8%B0%20%EC%8B%AC%EB%A6%AC%ED%95%99.md)
 
-- [오브젝트]
+- [오브젝트]()
+
+- [넷플릭스의 클라우드 엔지니어링]()
