@@ -70,6 +70,16 @@
 
 - [20.전술적 설계](https://github.com/kiku99/iamstupid/blob/main/MSA/%5BMSA%5D%2020.%EC%A0%84%EC%88%A0%EC%A0%81%20%EC%84%A4%EA%B3%84.pdf)
 
+- [21.전략적 설계의 정의 및 이벤트 스토밍 기법 소개]()
+
+- [22.쇼핑몰 서비스-big picture 그리기(1)]()
+
+- [23.쇼핑몰 서비스-big picture 그리기(2)]()
+
+- [24.쇼핑몰 서비스의 이해-마이크로서비스 도출하기]()
+
+- [25.쇼핑몰 서비스의 이해-마이크로서비스 명세하기]()
+
 ## 책
 
 - [객체지향의 사실과 오해](https://github.com/kiku99/iamstupid/blob/main/%EC%B1%85/%5B%EC%B1%85%5D%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%20%EC%82%AC%EC%8B%A4%EA%B3%BC%20%EC%98%A4%ED%95%B4.md)
