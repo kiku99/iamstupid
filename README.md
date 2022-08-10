@@ -88,7 +88,7 @@
 
 -[28.도메인 모델링 따라하기(애그리게잇 식별하기)](https://github.com/kiku99/iamstupid/blob/main/MSA/%5BMSA%5D%2028.%EB%8F%84%EB%A9%94%EC%9D%B8%20%EB%AA%A8%EB%8D%B8%EB%A7%81%20%EB%94%B0%EB%9D%BC%ED%95%98%EA%B8%B0%232(%EC%95%A0%EA%B7%B8%EB%A6%AC%EA%B2%8C%EC%9E%87%20%EC%8B%9D%EB%B3%84%ED%95%98%EA%B8%B0).pdf)
 
--29.도메인 모델링 따라하기(쇼핑몰 서비스 모델링)](https://github.com/kiku99/iamstupid/blob/main/MSA/%5BMSA%5D%2029.%EB%8F%84%EB%A9%94%EC%9D%B8%20%EB%AA%A8%EB%8D%B8%EB%A7%81%20%EB%94%B0%EB%9D%BC%ED%95%98%EA%B8%B0%233(%EC%87%BC%ED%95%91%EB%AA%B0%20%EC%84%9C%EB%B9%84%EC%8A%A4%20%EB%AA%A8%EB%8D%B8%EB%A7%81).pdf)
+-[29.도메인 모델링 따라하기(쇼핑몰 서비스 모델링)](https://github.com/kiku99/iamstupid/blob/main/MSA/%5BMSA%5D%2029.%EB%8F%84%EB%A9%94%EC%9D%B8%20%EB%AA%A8%EB%8D%B8%EB%A7%81%20%EB%94%B0%EB%9D%BC%ED%95%98%EA%B8%B0%233(%EC%87%BC%ED%95%91%EB%AA%B0%20%EC%84%9C%EB%B9%84%EC%8A%A4%20%EB%AA%A8%EB%8D%B8%EB%A7%81).pdf)
 
 ## 책
 
