@@ -22,6 +22,8 @@
 
 - [springboot]()
 
+- [Lombok]()
+
 ## CS/Data Structure
 
 - [Linux File System](https://github.com/kiku99/iamstupid/blob/main/CS/%5BCS%5D%20Linux%20File%20System.md)
