@@ -8,7 +8,7 @@
 
 ### 대표적인 웹 서버
 
-- Apache
+- Apache, Nginx
 
 ## WAS 
 
