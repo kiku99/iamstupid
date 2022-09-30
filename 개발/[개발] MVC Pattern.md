@@ -59,6 +59,9 @@ MVC Pattern은 Spring, Django 등의 프레임워크와 JSP를 사용한 웹 어
 
 - ### MVP patern 과의 비교
 
+MVP Pattern은 기존 MVC Pattern에서 Model과 View의 의존성 문제를 해결하기 위해 파생된 아키텍처 패턴이다. MVP Pattern은 Model, View, Presenter 컴포넌트로 이루어져있다. Model과 View는 MVC Pattern과 동일하고, Controller 대신 Presenter가 존재한다. 여기서 Presenter는 View에서 요청한 정보로 Model을 가공해 View에게 전달하는 역할을 하는데 여기서 컨트롤러와 차이점은 Presenter가 View의 인터페이스까지 포함한다는 점이다. Presenter는 사용자로부터 받는 모든 입력값을 수집하며 이것들을 모델에 바로 보내고, 결과를 뷰로 전달한다.
+
+
 
 - ### MVVM Patern 과의 비교
 
