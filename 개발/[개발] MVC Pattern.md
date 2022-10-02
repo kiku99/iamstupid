@@ -4,6 +4,8 @@ MVC Pattern 은 사용자 인터페이스, 데이터 및 제어 논리를 구현
 
 ## MVC Pattern 의 구조
 
+![image](https://user-images.githubusercontent.com/66311161/193447290-27d062cb-ce22-4555-a139-c2491ac8f82f.png)
+
  MVC Pattern 은 모델(model), 뷰(view), 컨트롤러(Controller) 세 개의 컴포넌트로 이루어져 있고 각 컴포넌트별로 고유한 역할을 수행한다.
 
 ### 1. 모델(Model)
@@ -58,7 +60,9 @@ MVC Pattern은 Spring, Django 등의 프레임워크와 JSP를 사용한 웹 어
 
 세상에 완벽한 설계는 없듯이 MVC Pattern 에도 한계가 존재한다. 복잡한 대규모 프로그램의 경우 다수의 View와 Model이 Controller를 통해 연결되기 때문에 컨트롤러가 불필요하게 커지는 현상이 발생하기도 한다. 또한 View를 업데이트하기 위해서는 결국 View와 Model 사이에 의존성이 존재하기 때문에 문제가 발생할 수 있다. 복잡한 화면을 구성하는 경우에도 동일한 현상이 발생하는데 이를 'Massive-View-Controller' 라고 한다. 이러한 단점을 보완하기 위해 다양한 패턴(MVP, MVVM, Redux Pattern)이 파생되었다.
 
-- ### MVP Pattern 
+- ### MVP Pattern
+
+![image](https://user-images.githubusercontent.com/66311161/193447302-6063ec91-7765-4bfb-8c69-7845dc43e5b3.png)
 
 MVP Pattern은 기존 MVC Pattern에서 Model과 View의 의존성 문제를 해결하기 위해 파생된 아키텍처 패턴이다. MVP Pattern은 Model, View, Presenter 컴포넌트로 이루어져있다. 
 
@@ -67,6 +71,8 @@ Model과 View는 MVC Pattern과 동일하고, Controller 대신 Presenter가 존
 MVP Pattern에서 모든 입력들은 View로 전달된다. Presenter는 입력에 해당하는 Model을 업데이트하고 Model업데이트 결과를 기반으로 View를 업데이트 한다. 이렇게 Presenter가 중간에서 Model과 View 사이에서 관리를 해주기 때문에 둘 사이의 의존성이 없다. 
 
 - ### MVVM Pattern
+
+![image](https://user-images.githubusercontent.com/66311161/193447307-9fc00677-31eb-449a-b661-a8ec919955c4.png)
 
 MVVM Pattern은 MVC Pattern의 Controller 대신 View Model이라는 컴포넌트를 사용한 아키텍처 패턴이다. MVVM Pattern도 마찬가지로 비즈니스 로직과 프레젠테이션 로직을 UI로부터 분리하기 위함이 목표다. 
 
