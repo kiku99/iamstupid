@@ -26,8 +26,6 @@
 
 - [servelt]()
 
-- [AOP]()
-
 - [MVC Pattern](https://github.com/kiku99/iamstupid/blob/main/%EA%B0%9C%EB%B0%9C/%5B%EA%B0%9C%EB%B0%9C%5D%20MVC%20Pattern.md)
 
 ## CS/Data Structure
