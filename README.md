@@ -106,4 +106,4 @@
 
 - [넷플릭스의 클라우드 엔지니어링]()
 
-- [여행의 이유]()
+- [여행의 이유](https://github.com/kiku99/iamstupid/blob/main/%EC%B1%85/%5B%EC%B1%85%5D%20%EC%97%AC%ED%96%89%EC%9D%98%20%EC%9D%B4%EC%9C%A0.md)
