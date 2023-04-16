@@ -2,37 +2,40 @@
 
 다음 삶은 돌맹이로
 
-## 개발
+## Dev
 
 - [API vs Library](https://github.com/kiku99/iamstupid/blob/main/%EA%B0%9C%EB%B0%9C/%5B%EA%B0%9C%EB%B0%9C%5D%20API%20vs%20Library%20vs%20Framework.md)
 
 - [Git 브랜칭 전략](https://github.com/kiku99/iamstupid/blob/main/%EA%B0%9C%EB%B0%9C/%5B%EA%B0%9C%EB%B0%9C%5D%20Git%20%EB%B8%8C%EB%9E%9C%EC%B9%AD%20%EC%A0%84%EB%9E%B5.md)
 
-- [Node.js](https://github.com/kiku99/iamstupid/blob/main/%EA%B0%9C%EB%B0%9C/%5B%EA%B0%9C%EB%B0%9C%5D%20Node.js.md)
-
 - [12 Factors App](https://github.com/kiku99/iamstupid/blob/main/%EA%B0%9C%EB%B0%9C/%5B%EA%B0%9C%EB%B0%9C%5D%2012%20Factors%20app.md)
-
-- [REST](https://github.com/kiku99/iamstupid/blob/main/%EA%B0%9C%EB%B0%9C/%5B%EA%B0%9C%EB%B0%9C%5D%20REST.md)
 
 - [Software Architecture](https://github.com/kiku99/iamstupid/blob/main/%EA%B0%9C%EB%B0%9C/%5B%EA%B0%9C%EB%B0%9C%5D%20Software%20Architecture.md)
 
-- [인증과 인가](https://github.com/kiku99/iamstupid/blob/main/%EA%B0%9C%EB%B0%9C/%5B%EA%B0%9C%EB%B0%9C%5D%20%EC%9D%B8%EC%A6%9D%EA%B3%BC%20%EC%9D%B8%EA%B0%80.md)
+- [MVC Pattern](https://github.com/kiku99/iamstupid/blob/main/%EA%B0%9C%EB%B0%9C/%5B%EA%B0%9C%EB%B0%9C%5D%20MVC%20Pattern.md)
 
-- [웹 서버와 WAS](https://github.com/kiku99/iamstupid/blob/main/%EA%B0%9C%EB%B0%9C/%5B%EA%B0%9C%EB%B0%9C%5D%20%EC%9B%B9%20%EC%84%9C%EB%B2%84%EC%99%80%20WAS.md)
-
-- [Lombok](https://github.com/kiku99/iamstupid/blob/main/%EA%B0%9C%EB%B0%9C/%5B%EA%B0%9C%EB%B0%9C%5D%20Lombok.md)
+## Java
 
 - [JPA](https://github.com/kiku99/iamstupid/blob/main/%EA%B0%9C%EB%B0%9C/%5B%EA%B0%9C%EB%B0%9C%5D%20JPA.md)
 
-- [servelt]()
+- [Lombok](https://github.com/kiku99/iamstupid/blob/main/%EA%B0%9C%EB%B0%9C/%5B%EA%B0%9C%EB%B0%9C%5D%20Lombok.md)
 
-- [MVC Pattern](https://github.com/kiku99/iamstupid/blob/main/%EA%B0%9C%EB%B0%9C/%5B%EA%B0%9C%EB%B0%9C%5D%20MVC%20Pattern.md)
+
+## Back End
+
+- [웹 서버와 WAS](https://github.com/kiku99/iamstupid/blob/main/%EA%B0%9C%EB%B0%9C/%5B%EA%B0%9C%EB%B0%9C%5D%20%EC%9B%B9%20%EC%84%9C%EB%B2%84%EC%99%80%20WAS.md)
+
+- [REST](https://github.com/kiku99/iamstupid/blob/main/%EA%B0%9C%EB%B0%9C/%5B%EA%B0%9C%EB%B0%9C%5D%20REST.md)
+
+- [Node.js](https://github.com/kiku99/iamstupid/blob/main/%EA%B0%9C%EB%B0%9C/%5B%EA%B0%9C%EB%B0%9C%5D%20Node.js.md)
+
+- [인증과 인가](https://github.com/kiku99/iamstupid/blob/main/%EA%B0%9C%EB%B0%9C/%5B%EA%B0%9C%EB%B0%9C%5D%20%EC%9D%B8%EC%A6%9D%EA%B3%BC%20%EC%9D%B8%EA%B0%80.md)
 
 ## CS/Data Structure
 
 - [Linux File System](https://github.com/kiku99/iamstupid/blob/main/CS/%5BCS%5D%20Linux%20File%20System.md)
 
-## 네트워크
+## Network
 
 - [TCP와 UDP](https://github.com/kiku99/iamstupid/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%5B%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%5D%20TCP%EC%99%80%20UDP.md)
 
@@ -96,7 +99,7 @@
 
 - [26.전술적 설계의 정의 및 도메인 모델링 이해하기](https://github.com/kiku99/iamstupid/blob/main/MSA/%5BMSA%5D%2026.%EC%A0%84%EC%88%A0%EC%A0%81%20%EC%84%A4%EA%B3%84%EC%9D%98%20%EC%A0%95%EC%9D%98%20%EB%B0%8F%20%EB%8F%84%EB%A9%94%EC%9D%B8%20%EB%AA%A8%EB%8D%B8%EB%A7%81%20%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0.pdf)
 
-## 책
+## Book
 
 - [객체지향의 사실과 오해](https://github.com/kiku99/iamstupid/blob/main/%EC%B1%85/%5B%EC%B1%85%5D%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%20%EC%82%AC%EC%8B%A4%EA%B3%BC%20%EC%98%A4%ED%95%B4.md)
 
