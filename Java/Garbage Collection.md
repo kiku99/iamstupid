@@ -14,6 +14,8 @@ Java의 대부분의 객체는 금방 접근 불가능 상태가 되며, 오래�
 
 영역별 데이터 흐름을 그림으로 살펴보면 다음과 같다.
 
+![image](https://user-images.githubusercontent.com/66311161/232411073-0670567c-c1c1-4965-862d-b5537e7995f2.png)
+
 ## Young 영역의 구성
 
 Young 영역은 3개의 영역으로 나뉜다. 
@@ -30,6 +32,8 @@ Young 영역은 3개의 영역으로 나뉜다.
 5. 이 과정을 반복하다가 계속해서 살아남아 있는 객체는 Old 영역으로 이동하게 된다.
 
 이렇게 Minor GC를 통해서 Old 영역까지 데이터가 쌓인 것을 간단히 나타내면 다음과 같다.
+
+![image](https://user-images.githubusercontent.com/66311161/232411126-11142ca5-ebfd-4ea4-bb88-eee7335507df.png)
 
 ## Old 영역에 대한 GC
 
