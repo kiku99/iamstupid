@@ -20,6 +20,8 @@
 
 - [Lombok](https://github.com/kiku99/iamstupid/blob/main/%EA%B0%9C%EB%B0%9C/%5B%EA%B0%9C%EB%B0%9C%5D%20Lombok.md)
 
+- [Garbage Collection](https://github.com/kiku99/iamstupid/blob/main/Java/Garbage%20Collection.md)
+
 
 ## Back End
 
