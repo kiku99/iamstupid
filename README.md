@@ -31,6 +31,8 @@
 
 - [인증과 인가](https://github.com/kiku99/iamstupid/blob/main/%EA%B0%9C%EB%B0%9C/%5B%EA%B0%9C%EB%B0%9C%5D%20%EC%9D%B8%EC%A6%9D%EA%B3%BC%20%EC%9D%B8%EA%B0%80.md)
 
+## Database
+
 ## CS/Data Structure
 
 - [Linux File System](https://github.com/kiku99/iamstupid/blob/main/CS/%5BCS%5D%20Linux%20File%20System.md)
