@@ -47,6 +47,9 @@
 
 - [OSI 7Layer]()
 
+## Linux
+
+
 ## MSA
 
 - [01.biz민첩성과 아키텍처 요건](https://github.com/kiku99/iamstupid/blob/main/MSA/%5BMSA%5D%2001.biz%EB%AF%BC%EC%B2%A9%EC%84%B1%EA%B3%BC%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%20%EC%9A%94%EA%B1%B4.pdf)
