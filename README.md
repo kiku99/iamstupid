@@ -4,53 +4,52 @@
 
 ## Dev
 
-- [API vs Library](https://github.com/kiku99/iamstupid/blob/main/%EA%B0%9C%EB%B0%9C/%5B%EA%B0%9C%EB%B0%9C%5D%20API%20vs%20Library%20vs%20Framework.md)
+- [API vs Library](https://github.com/kiku99/iamstupid/blob/main/Dev/API%20vs%20Library%20vs%20Framework.md)
 
-- [Git 브랜칭 전략](https://github.com/kiku99/iamstupid/blob/main/%EA%B0%9C%EB%B0%9C/%5B%EA%B0%9C%EB%B0%9C%5D%20Git%20%EB%B8%8C%EB%9E%9C%EC%B9%AD%20%EC%A0%84%EB%9E%B5.md)
+- [Git 브랜칭 전략](https://github.com/kiku99/iamstupid/blob/main/Dev/Git%20%EB%B8%8C%EB%9E%9C%EC%B9%AD%20%EC%A0%84%EB%9E%B5.md)
 
-- [12 Factors App](https://github.com/kiku99/iamstupid/blob/main/%EA%B0%9C%EB%B0%9C/%5B%EA%B0%9C%EB%B0%9C%5D%2012%20Factors%20app.md)
+- [12 Factors App](https://github.com/kiku99/iamstupid/blob/main/Dev/12%20Factors%20app.md)
 
-- [Software Architecture](https://github.com/kiku99/iamstupid/blob/main/%EA%B0%9C%EB%B0%9C/%5B%EA%B0%9C%EB%B0%9C%5D%20Software%20Architecture.md)
+- [Software Architecture](https://github.com/kiku99/iamstupid/blob/main/Dev/Software%20Architecture.md)
 
-- [MVC Pattern](https://github.com/kiku99/iamstupid/blob/main/%EA%B0%9C%EB%B0%9C/%5B%EA%B0%9C%EB%B0%9C%5D%20MVC%20Pattern.md)
+- [MVC Pattern](https://github.com/kiku99/iamstupid/blob/main/Dev/MVC%20Pattern.md)
 
 ## Java
 
-- [JPA](https://github.com/kiku99/iamstupid/blob/main/%EA%B0%9C%EB%B0%9C/%5B%EA%B0%9C%EB%B0%9C%5D%20JPA.md)
+- [JPA](https://github.com/kiku99/iamstupid/blob/main/Java/JPA.md)
 
-- [Lombok](https://github.com/kiku99/iamstupid/blob/main/%EA%B0%9C%EB%B0%9C/%5B%EA%B0%9C%EB%B0%9C%5D%20Lombok.md)
+- [Lombok](https://github.com/kiku99/iamstupid/blob/main/Java/Lombok.md)
 
 - [Garbage Collection](https://github.com/kiku99/iamstupid/blob/main/Java/Garbage%20Collection.md)
 
 
 ## Back End
 
-- [웹 서버와 WAS](https://github.com/kiku99/iamstupid/blob/main/%EA%B0%9C%EB%B0%9C/%5B%EA%B0%9C%EB%B0%9C%5D%20%EC%9B%B9%20%EC%84%9C%EB%B2%84%EC%99%80%20WAS.md)
+- [웹 서버와 WAS](https://github.com/kiku99/iamstupid/blob/main/Back%20End/%EC%9B%B9%20%EC%84%9C%EB%B2%84%EC%99%80%20WAS.md)
 
-- [REST](https://github.com/kiku99/iamstupid/blob/main/%EA%B0%9C%EB%B0%9C/%5B%EA%B0%9C%EB%B0%9C%5D%20REST.md)
+- [REST](https://github.com/kiku99/iamstupid/blob/main/Back%20End/REST.md)
 
-- [Node.js](https://github.com/kiku99/iamstupid/blob/main/%EA%B0%9C%EB%B0%9C/%5B%EA%B0%9C%EB%B0%9C%5D%20Node.js.md)
+- [Node.js](https://github.com/kiku99/iamstupid/blob/main/Back%20End/Node.js.md)
 
-- [인증과 인가](https://github.com/kiku99/iamstupid/blob/main/%EA%B0%9C%EB%B0%9C/%5B%EA%B0%9C%EB%B0%9C%5D%20%EC%9D%B8%EC%A6%9D%EA%B3%BC%20%EC%9D%B8%EA%B0%80.md)
+- [인증과 인가](https://github.com/kiku99/iamstupid/blob/main/Back%20End/%EC%9D%B8%EC%A6%9D%EA%B3%BC%20%EC%9D%B8%EA%B0%80.md)
 
 ## Database
 
 ## CS/Data Structure
 
-- [Linux File System](https://github.com/kiku99/iamstupid/blob/main/CS/%5BCS%5D%20Linux%20File%20System.md)
+- [Linux File System](https://github.com/kiku99/iamstupid/blob/main/CS/Linux%20File%20System.md)
 
 ## Network
 
-- [TCP와 UDP](https://github.com/kiku99/iamstupid/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%5B%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%5D%20TCP%EC%99%80%20UDP.md)
+- [TCP와 UDP](https://github.com/kiku99/iamstupid/blob/main/Network/TCP%EC%99%80%20UDP.md)
 
-- [HTTPS](https://github.com/kiku99/iamstupid/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%5B%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%5D%20HTTPS.md)
+- [HTTPS](https://github.com/kiku99/iamstupid/blob/main/Network/HTTPS.md)
 
-- [Cipher Suite](https://github.com/kiku99/iamstupid/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%5B%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%5D%20Cipher%20Suite.md)
-
-- [OSI 7Layer]()
+- [Cipher Suite](https://github.com/kiku99/iamstupid/blob/main/Network/Cipher%20Suite.md)
 
 ## Linux
 
+- [Linux shell](https://github.com/kiku99/iamstupid/blob/main/Linux/Linux%20shell.md)
 
 ## MSA
 
@@ -108,12 +107,8 @@
 
 ## Book
 
-- [객체지향의 사실과 오해](https://github.com/kiku99/iamstupid/blob/main/%EC%B1%85/%5B%EC%B1%85%5D%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%20%EC%82%AC%EC%8B%A4%EA%B3%BC%20%EC%98%A4%ED%95%B4.md)
+- [객체지향의 사실과 오해](https://github.com/kiku99/iamstupid/blob/main/Book/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%20%EC%82%AC%EC%8B%A4%EA%B3%BC%20%EC%98%A4%ED%95%B4.md)
 
-- [홀로서기 심리학](https://github.com/kiku99/iamstupid/blob/main/%EC%B1%85/%5B%EC%B1%85%5D%20%ED%99%80%EB%A1%9C%EC%84%9C%EA%B8%B0%20%EC%8B%AC%EB%A6%AC%ED%95%99.md)
+- [홀로서기 심리학](https://github.com/kiku99/iamstupid/blob/main/Book/%ED%99%80%EB%A1%9C%EC%84%9C%EA%B8%B0%20%EC%8B%AC%EB%A6%AC%ED%95%99.md)
 
-- [오브젝트]()
-
-- [넷플릭스의 클라우드 엔지니어링]()
-
-- [여행의 이유](https://github.com/kiku99/iamstupid/blob/main/%EC%B1%85/%5B%EC%B1%85%5D%20%EC%97%AC%ED%96%89%EC%9D%98%20%EC%9D%B4%EC%9C%A0.md)
+- [여행의 이유](https://github.com/kiku99/iamstupid/blob/main/Book/%EC%97%AC%ED%96%89%EC%9D%98%20%EC%9D%B4%EC%9C%A0.md)
