@@ -1,6 +1,6 @@
 # Linux shell
 
-shell이란 사용자 명령어 해석기. 사용자가 프롬프트에 입력한 명령을 해석해서 운영체제(커널)에게 전달한다.
+**shell**이란 사용자 명령어 해석기. 사용자가 프롬프트에 입력한 명령을 해석해서 운영체제(커널)에게 전달한다.
 
 - Bourne shell(sh) : AT&T 벨 연구소의 스티븐 본이 개발한 original shell
 - C shell(csh, tcsh) : Bill Joy가 C언어의 기술을 넣어서 만든 shell. History, aliases, job control, vi command editing and completion 기능을 포함
@@ -17,7 +17,7 @@ sudo chsh [username] - 로그인 shell 변경
 
 ## Bash shell과 변수
 
-shell의 변수란?
+**shell의 변수란?**
 
 - 데이터를 넣는 그릇
 - 선언할 필요없이 사용 가능
@@ -70,7 +70,41 @@ env
 
 ## Bash shell의 rule
 
+**Metacharacters**
+
+- shell에서 특별히 의미를 정해 놓은 문자들
+- \ ? () $ ... * % {} [] 등
+
+**Quoting Rule** : 메타문자의 의미를 제거하고 단순 문자로 변경
+
+  - Backslash(\)
+    - 바로 뒤의 메타 문자는 특별한 의미를 제거
+  - Double Quotes("")
+    - 내의 모든 메타문자의 의미를 제거. 단 $, "은 제외
+  - Single Quotes('')
+    - 내의 모든 메타문자의 의미를 제거
+
+**Nesting commands**
+
+- 명령어의 실행 결과를 치환하여 명령을 실행
+- ${리눅스 명령어}로 사용 가능 
+
+**Alias**
+
+- shell의 명령에 새로운 이름을 부여
+-  명령들을 조합하여 새로운 이름의 명령을 생성
+  
+```bash
+alias ll='ls -alF'
+```
+
+alias 삭제 : unalias name  
+
+**Prompt**
+
+
 ## Bash shell script
+
 
 ## Positional Parameters
 
@@ -81,3 +115,5 @@ env
 ## Looping
 
 ## Shell Script Example
+
+

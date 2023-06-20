@@ -49,6 +49,7 @@
 
 ## Linux
 
+- [Linux shell](https://github.com/kiku99/iamstupid/blob/main/Linux/Linux%20shell.md)
 
 ## MSA
 
