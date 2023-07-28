@@ -21,7 +21,7 @@ sudo chsh [username] - 로그인 shell 변경
 
 - 데이터를 넣는 그릇
 - 선언할 필요없이 사용 가능
-- 변수명 : 문자, 숫자, _(언더바)로 구성될 수 있지만, 시작은 반드시 문자나 _로 시작
+- 변수명 : 문자, 숫자, _(언더바)로 구성될 수 있지만, 시작은 반드시 문자나_로 시작
 
 변수 선언 : varname=value
 
@@ -77,22 +77,22 @@ env
 
 **Quoting Rule** : 메타문자의 의미를 제거하고 단순 문자로 변경
 
-  - Backslash(\)
-    - 바로 뒤의 메타 문자는 특별한 의미를 제거
-  - Double Quotes("")
-    - 내의 모든 메타문자의 의미를 제거. 단 $, "은 제외
-  - Single Quotes('')
-    - 내의 모든 메타문자의 의미를 제거
+- Backslash(\)
+  - 바로 뒤의 메타 문자는 특별한 의미를 제거
+- Double Quotes("")
+  - 내의 모든 메타문자의 의미를 제거. 단 $, "은 제외
+- Single Quotes('')
+  - 내의 모든 메타문자의 의미를 제거
 
 **Nesting commands**
 
 - 명령어의 실행 결과를 치환하여 명령을 실행
-- ${리눅스 명령어}로 사용 가능 
+- ${리눅스 명령어}로 사용 가능
 
 **Alias**
 
 - shell의 명령에 새로운 이름을 부여
--  명령들을 조합하여 새로운 이름의 명령을 생성
+- 명령들을 조합하여 새로운 이름의 명령을 생성
   
 ```bash
 alias ll='ls -alF'
@@ -102,9 +102,15 @@ alias 삭제 : unalias name
 
 **Prompt**
 
-
 ## Bash shell script
 
+**Shell Script**
+
+- 리눅스 command들을 모아 놓은 ASCII Text 파일
+- 실행 퍼미션을 할당해야 실행 가능
+- Bash shell script에서 특별히 의미가 정해진 기능
+
+#!/bin/bash : 셔뱅.해시뱅. 스크립트를 실행할 sub shell 이름
 
 ## Positional Parameters
 
